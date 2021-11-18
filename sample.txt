@@ -1,3 +1,5 @@
 welcome to first framework
 
 we will push this to git
+
+Added this line to check branch rule to git repo
